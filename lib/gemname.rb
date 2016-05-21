@@ -1,4 +1,4 @@
-require "gemname/version"
+# require "gemname/version"
 
 class GemName
   def self.hello
